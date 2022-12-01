@@ -5,9 +5,9 @@ A Python script that changes your active desktop on KDE
 
 ```properties
 
-./desktop_switch.py + # changes to next desktop
+desktop_switch.py + # changes to next desktop
 
-./desktop_switch.py - # changes to previous desktop
+desktop_switch.py - # changes to previous desktop
 
 ```
 
